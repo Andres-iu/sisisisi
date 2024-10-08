@@ -1,5 +1,6 @@
 # top 4 canciones con buenas partituras en bateria
 ## Toxicity- Sistem Of A Down
+
 ![image](https://github.com/user-attachments/assets/69dd01e4-df97-4499-b76c-4d514a1d7c09)
 Un clasíco que como buen clasico la mayoria de los bateristas o en mi caso, nos gusta hacer cover, buena metrica, buena composición, gran canción
 ## Let´s Go- Stuck in the sound 
